@@ -1,5 +1,5 @@
 {
-  "android": { "version": "2.0.231", "url": "https://play.google.com/store/apps/details?id=com.elitas.masterlink" },
-  "ios": { "version": "2.0.235", "url": "https://apps.apple.com/app/id0000000000" },
-  "windows": { "version": "2.0.231", "url": "" }
+  "android": { "version": "2.0.232", "url": "https://play.google.com/store/apps/details?id=com.elitas.masterlink" },
+  "ios": { "version": "2.0.232", "url": "https://apps.apple.com/app/id0000000000" },
+  "windows": { "version": "2.0.232", "url": "" }
 }
